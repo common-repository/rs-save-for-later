@@ -1,0 +1,154 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RS Save for Later\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-17 12:05+0000\n"
+"POT-Revision-Date: Sat Jul 23 2016 08:55:39 GMT+0200 (CEST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: admin/class-rs-save-for-later-admin.php:123 
+#: admin/class-rs-save-for-later-admin.php:124 
+#: admin/partials/rs-save-for-later-admin-display.php:23
+msgid "Simplicity Save For Later"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:183 
+#: admin/partials/rs-save-for-later-admin-display.php:31
+msgid "Settings"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:191
+msgid ""
+"Do you want us to add the save for later button to the end of your content:"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:201
+msgid "Add save for later button to these post types:"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:208
+msgid "Do you want to use our styling:"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:215
+msgid "Do you want to enable Save for Later ONLY for Logged IN users:"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:222
+msgid "Your \"Save for Later\" text. Default: Save for Later"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:229
+msgid "Your \"Remove from Saved for Later\" text. Default: Remove"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:236
+msgid "Your \"See Saved\" text. Default: See Saved"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:243
+msgid "Your \"Number of Saved Items\" text. Default: Saved: "
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:250
+msgid "Your \"Remove All\" text. Default: Remove All"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:257
+msgid ""
+"Your \"No saved content\" text. Default: You don’t have any saved content."
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:365 
+#: public/class-rs-save-for-later-public.php:183 
+#: public/class-rs-save-for-later-public.php:419 
+#: public/class-rs-save-for-later-public.php:475
+msgid "Save for Later"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:382 
+#: public/class-rs-save-for-later-public.php:184 
+#: public/class-rs-save-for-later-public.php:420 
+#: public/class-rs-save-for-later-public.php:476
+msgid "Remove"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:399 
+#: public/class-rs-save-for-later-public.php:185 
+#: public/class-rs-save-for-later-public.php:262 
+#: public/class-rs-save-for-later-public.php:421
+msgid "See Saved"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:416 
+#: public/class-rs-save-for-later-public.php:186 
+#: public/class-rs-save-for-later-public.php:422
+msgid "Saved: "
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:433 
+#: public/class-rs-save-for-later-public.php:477
+msgid "Remove All"
+msgstr ""
+
+#: admin/class-rs-save-for-later-admin.php:450 
+#: public/class-rs-save-for-later-public.php:330 
+#: public/class-rs-save-for-later-public.php:478 
+#: public/class-rs-save-for-later-public.php:563
+msgid "You don’t have any saved content."
+msgstr ""
+
+#: includes/class-rs-save-for-later-activator.php:38
+msgid "Saved for Later"
+msgstr ""
+
+#: public/class-rs-save-for-later-public.php:449
+msgid "%1$sLog in%2$s or %3$sRegister%4$s to save this content for later."
+msgstr ""
+
+#: admin/partials/rs-save-for-later-admin-display.php:45
+msgid "Customization"
+msgstr ""
+
+#: admin/partials/rs-save-for-later-admin-display.php:48
+msgid ""
+"If you want to use Save for Later anywhere on the website, you can use our "
+"shortcode:"
+msgstr ""
+
+#. Name of the plugin
+msgid "Simplicity Save for Later"
+msgstr ""
+
+#. Description of the plugin
+msgid "Save content for later."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/rs-save-for-later/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Simplicity LLC"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.simplicity.rs/"
+msgstr ""
